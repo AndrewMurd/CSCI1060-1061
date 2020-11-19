@@ -1,0 +1,10 @@
+Name: John
+Courses: 2
+csci1061 95
+csci1060 93
+
+Name: Samantha
+Courses: 2
+csci4220 100
+csci3050 92
+
